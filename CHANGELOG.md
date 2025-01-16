@@ -1,3 +1,7 @@
+## 0.2.7
+- fix: Handle unknown presences
+- chore: downgrade logger again to support flutter 1.25
+
 ## 0.2.6
 - fix: Missing RoomCreationTypes
 
